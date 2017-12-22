@@ -3,7 +3,7 @@ body{
 }
 #pic{
     display: block;
-    margin: auto;
+    margin:inherit;
     height: 30%;
     width: 60%;
 }
