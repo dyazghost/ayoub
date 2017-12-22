@@ -6,6 +6,7 @@ body{
     margin:inherit;
     height: 30%;
     width: 60%;
+    align-content: center;
 }
 #primary_nav_wrap
 {
