@@ -7,6 +7,9 @@ body{
     height: 30%;
     width: 60%;
 }
+#pic{
+    display: block;
+    margin:auto;
 #primary_nav_wrap
 {
 	
