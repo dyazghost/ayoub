@@ -1,5 +1,7 @@
 body{
      background: linear-gradient(to right, #ADA996,#F2F2F2,#DBDBDB,#EAEAEA);
+     line-height: 27px;
+     font-family: 'Century Gothic', Verdana, Calibri, serif;
 }
 #pic{
     display: block;
@@ -17,6 +19,7 @@ body{
 
 #primary_nav_wrap ul
 {
+    font-family: 'Century Gothic', Verdana, Calibri, serif;
 	list-style:none;
 	position:relative;
 	float:left;
